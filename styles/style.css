@@ -27,7 +27,7 @@ body {
 }
 
 header .my-logo-title {
-  color: #6070FF;
+  color: #6070ff;
   font-family: 'Poppins', sans-serif;
 }
 
@@ -36,12 +36,12 @@ header .navbar-links {
 }
 
 header .navbar-links li a {
-  color:#344563;
+  color: #344563;
   font-family: 'Poppins', sans-serif;
 }
 
 .connect {
-  color: #7F8CFF;
+  color: #7f8cff;
 }
 
 .section-1 {
@@ -51,14 +51,17 @@ header .navbar-links li a {
 }
 
 .section-2 .technologies {
-  color: #396DF2;
-  background-color: 1px solid #396DF2;
+  color: #396df2;
   font-family: 'Poppins', sans-serif;
 }
 
+footer form button {
+  color: #396df2;
+}
+
 .section-2 .card .card-body button {
-  color: #396DF2;
-  border: 1px solid #396DF2;
+  color: #396df2;
+  border: 1px solid #396df2;
   font-family: 'Poppins', sans-serif;
 }
 
@@ -66,14 +69,10 @@ footer {
   background-image: url("../images/footer-shapes.png");
   background-size: cover;
   background-repeat: no-repeat;
-  background-color:#396DF2;
+  background-color: #396df2;
 }
 
 footer form input,
 footer form textarea {
   width: 100%;
-}
-
-footer form button {
-  color: #396DF2;
 }
