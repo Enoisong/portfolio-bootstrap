@@ -22,6 +22,10 @@ body {
   margin: 0;
 }
 
+.bg-lightgrey {
+  background-color: #e5e5e5;
+}
+
 header .my-logo-title {
   color: #6070FF;
   font-family: 'Poppins', sans-serif;
@@ -41,9 +45,19 @@ header .navbar-links li a {
 }
 
 .section-1 {
-  background-image: url(./images/header-shapes.png);
+  background-image: url("../images/header-shapes.png");
   background-size: cover;
   background-repeat: no-repeat;
-  height: 100vh;
-  width: 1440px;
+}
+
+.section-2 .technologies {
+  color: #396DF2;
+  background-color: 1px solid #396DF2;
+  font-family: 'Poppins', sans-serif;
+}
+
+.section-2 .card .card-body button {
+  color: #396DF2;
+  border: 1px solid #396DF2;
+  font-family: 'Poppins', sans-serif;
 }
