@@ -61,3 +61,19 @@ header .navbar-links li a {
   border: 1px solid #396DF2;
   font-family: 'Poppins', sans-serif;
 }
+
+footer {
+  background-image: url("../images/footer-shapes.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color:#396DF2;
+}
+
+footer form input,
+footer form textarea {
+  width: 100%;
+}
+
+footer form button {
+  color: #396DF2;
+}
