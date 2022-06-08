@@ -2,7 +2,7 @@
 
 # The Portfolio using Bootstrap v5
 
-> This is our implementation of a portfolio template on Figma using Boostrap v5.  This is solely focused on the desktop version. 
+> This is our implementation of a portfolio template on Figma using Boostrap v5. This is solely focused on using Bootstrap to create the desktop version. 
 
 ## Built With
 
@@ -13,9 +13,7 @@
 
 ## Live Demo
 
-[Previous Live Demo Link](https://raw.githack.com/chelmerrox/portfolio-bootstrap/main/index.html)
-
-[GitHub Pages Link](https://chelmerrox.github.io/portfolio-bootstrap/)
+[Live Demo Link](https://raw.githack.com/chelmerrox/portfolio-bootstrap/bootstrap/index.html)
 
 ## Preview
 
